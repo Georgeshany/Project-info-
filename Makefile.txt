@@ -1,0 +1,7 @@
+SEMORA : main.o 
+
+	gcc -o SEMORA main.o
+
+main.o : main.c
+
+	gcc -c main.c -o main.o
