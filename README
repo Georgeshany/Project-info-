@@ -42,6 +42,8 @@ A higher-level employee has the right to delete a product or a client with a spe
  
 The program runs in a loop and simultaneously. 
  
-The program is equipped with a forced stopping feature if the user enters "tiuq", "pots" or "tixe" whenever presented with the 'are you a client or employee ' question. 
+The program is equipped with a forced stopping feature if the user enters "tiuq", "pots" or "tixe" whenever presented with the 'are you a client or employee ' question.
+
+A new product cannot be added if its reference number matches an already existing product reference that is stored in the products file.
 
  
