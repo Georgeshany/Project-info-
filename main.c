@@ -1917,7 +1917,7 @@ int countline () {
 
   // Vérifier si le fichier a été ouvert avec succès
   if (fp == NULL) {
-    printf("Could not open file %s", filename); // Affiche un message d'erreur.
+    printf("Could not open file %s\n\n ", filename); // Affiche un message d'erreur.
     return 0; //return 0
   }
 
