@@ -1,0 +1,10 @@
+Paco_rabanne_invictus 623 77.00 9 102.00 12 139.00 4 men
+Azzaro_chrome 342 61.00 3 82.00 13 124.00 9 men 
+Montblanc_legend 724 76.00 8 105.00 6 134.00 17 men
+Hugo_boss_bottled 297 92.50 20 121.00 16 169.50 4 men 
+Armani_acqua_di_gio 126 82.00 23 105.00 8 154.00 7 men
+Ck_everyone 823 56.00 19 73.00 13 98.00 8 unisexe
+Channel_n5_l'eau 323 120.00 23 174.00 14 230.00 7 women 
+Rochas_eau_de_Rochas 263 70.00 17 80.00 15 115.00 6 women
+Reminiscence_Patchouli 105 71.00 13 111.00 6 148.00 7 women
+Hermes_concentre_d'orange_verte 284 86.00 11 149.00 16 181.00 9 women
